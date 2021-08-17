@@ -4,27 +4,15 @@ title:  "한글 가독성 테스트"
 date:   2021-08-17 22:22:49 +0900
 categories: Test
 ---
+한글 가독성 테스트를 위해 애국가 1절을 작성해 보았다.
+
+
+
 동해물과 백두산이 마르고 닳도록
+
 하느님이 보우하사 우리나라 만세
-무궁화 삼천리 화려강산 대한사람 대한으로 길이 보전하세
 
-```javascript
-const Razorpay = require('razorpay');
+무궁화 삼천리 화려강산
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
+대한사람 대한으로 길이 보전하세
 
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

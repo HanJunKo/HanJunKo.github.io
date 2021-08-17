@@ -26,9 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  HanJunKo
+    linkedIn: in/hanjun-ko-156669205
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
